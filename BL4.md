@@ -23,6 +23,22 @@ Avoids broken interactions that might get nerfed. Video available [here](https:/
 
 ##### Items
 
+- Quick List
+  - Perks to Look out for
+    - Deadeye (Class Mod, Shield, Enhancement)
+    - High Caliber (repkit, grenade)
+  - Items and Bosses
+    - World Drops (Splashzone Farming, etc)
+      - [ ] People's Flewdy (SMG) - World Drop
+      - [ ] Crushing Hero of Bullet (Enhancement) - World Drop
+    - Boss Drops
+      - [ ] Wombo Combo (AR) - Saw's Clench Drill Site
+      - [ ] Lucian's Flank (AR) - Saddleback
+      - [ ] Rainbow Vomit (Shotgun) - Leader Willem
+      - [ ] High Capacity Relaxed Super Solder (Shield) - Vile Lictor
+      - [ ] Detonating Illusionist (Class Mod) - Ripper Queen
+      - [ ] Triple Bypass (Repkit) - BackHive
+
 - Weapons
   - Wombo Combo (AR)
     - Rolls Type, Fire is best.
