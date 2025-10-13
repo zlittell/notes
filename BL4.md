@@ -30,10 +30,13 @@ Avoids broken interactions that might get nerfed. Video available [here](https:/
   - Items and Bosses
     - World Drops (Splashzone Farming, etc)
       - [ ] People's Flewdy (SMG) - World Drop
+        - I have fire version, want shock or cryo/cor plus I want tazer and double barrel
       - [ ] Crushing Hero of Bullet (Enhancement) - World Drop
     - Boss Drops
-      - [ ] Wombo Combo (AR) - Saw's Clench Drill Site
+      - [x] Wombo Combo (AR) - Saw's Clench Drill Site
+        - Have really high dps but does require spinup.
       - [ ] Lucian's Flank (AR) - Saddleback
+        - Cryo/corrosive
       - [ ] Rainbow Vomit (Shotgun) - Leader Willem
       - [ ] High Capacity Relaxed Super Solder (Shield) - Vile Lictor
       - [ ] Detonating Illusionist (Class Mod) - Ripper Queen
