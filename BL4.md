@@ -23,18 +23,9 @@ After the nerf the wreckage has settled. [Moxsy video](https://www.youtube.com/w
 
 ##### Quick Loot List
 - World Drops:
-  - Jakobs shotgun with good spread launcher roll (Looming Dullahan)
-  - Order Sniper Rifle (with jakobs crit projectiles) (Catchy Extolled Piktun) 
+  - Jakobs shotgun with good spread launcher roll (31480x5) (Purple, Looming Dullahan)
   - Order Enhancement with Power Shot (gun damage, gun crit, sniper damage)
   - PSION (Rending) (+5 Bloodletter) (Kinetic, All damage, Gun Damage, SED) (+30% SED Best)
-- Directive-O (Ironwall Resolve Bunker Boss)
-  - Bonnie and Clyde
-- Craven Nook Order Bunker Boss: Callous Harbinger of Annihilating Death
-  - Hot Slugger
-- Driller Hole (Queens Cradle Boss)
-  - G.M.R. (Memetic Extolled)
-- Vile Ted and The Experiments in Hydrus Sublab (Terminus District)
-  - Seventh Sense
 - Primordial Guardian Inceptus
   - Hat Trick (Vindictive)
 - Callis, the Ripper Queen
@@ -43,8 +34,6 @@ After the nerf the wreckage has settled. [Moxsy video](https://www.youtube.com/w
   - Hat Trick (Vindictive)
 - Idolator Sol
   - Hat Trick (Vindictive)
-- Timekeeper
-  - Timekeepers New Shield
 - Primordial Guardian Origo
   - Watts 4 Dinner
   - Hat Trick (Vindictive)
@@ -54,26 +43,26 @@ After the nerf the wreckage has settled. [Moxsy video](https://www.youtube.com/w
 
 - Weapons
   - Mobbing Setup:
-    - [ ] Bonnie and Clyde
+    - [x] Bonnie and Clyde
       - (LEGENDARY)
       - His Base Card is (2384, 78, 3.4s, 6.9/s, 18)=7125 DPS
       - Pair of Thieves and Jakobs Crit Hit Projectile
       - Shotgun swap is good
       - Farming:
         - Ironwall Resolve Bunker boss: Directive-O
-    - [ ] Hot Slugger 
+    - [x] Hot Slugger 
       - (LEGENDARY)
       - His Base Card is (9392, 82%, 0.9s, 1.0/s, 1)=5077
       - Blazing Barrel with Jakobs Crit
       - Farming:
         - Craven Nook Order Bunker Boss: Callous Harbinger of Annihilating Death
-    - [ ] G.M.R. (Memetic Extolled) 
+    - [x] G.M.R. (Memetic Extolled) 
       - (LEGENDARY)
       - His Base Card (2580, 68, 1.7, 4.3, 21)=8256
       - Big Name Hunter with Jakobs Crit
       - Farming:
         - Queens Cradle boss Driller Hole
-    - [ ] Seventh Sense (Kettled Ambushing Seventh Sense)
+    - [x] Seventh Sense (Kettled Ambushing Seventh Sense)
       - (LEGENDARY)
       - His Base Card (1785, 74, 1.9, 9.0, 4)=3065
       - Proprioception, Hyperion Shield, Daedalus Multi-Loader, Jakobs Crit
@@ -88,9 +77,10 @@ After the nerf the wreckage has settled. [Moxsy video](https://www.youtube.com/w
         - His Base Card (1548x6, 76, 1.4, 1.5, 1)
         - Spread Launcher (31480x5) is the magic
         - Jakobs Crit
-    - [ ] Order Sniper Rifle (with jakobs crit projectiles)
+    - [x] Order Sniper Rifle (with jakobs crit projectiles)
       - Charges all count as single damage source for bleed
-      - [ ] Piktun (Catchy Extolled) (his pick)
+      - I have a legendary that seems much better (Order with 7000 base damage) what am I missing here?
+      - Piktun (Catchy Extolled) (his pick)
         - Purple
         - base card (5000, 93, 1.9, 1.4, 9)=5381
         - Jakobs Crit Projects, Torque Impact Mag, Order Charge
@@ -109,14 +99,11 @@ After the nerf the wreckage has settled. [Moxsy video](https://www.youtube.com/w
         - Idolator Sol
   -  Could use Order one with Power Shot. Best on purple with gun damage, gun crit, sniper damage
 - Shield
-  - [ ] Timekeepers New Shield
-    - Legendary
-    - High Survivability because of Bininu
-    - Farming: Timekeeper lol
+  - [x] Timekeepers New Shield
   - [ ] Could swap to Watts 4 Dinner with Amp for Bossing
     - [ ] Farming: Primordial Guardian Origo
 - Class Mod
-  - [ ] PSION (Rending)
+  - [ ] PSION (Rending) (*NOTE* Farm Better Roll)
     - Purple
     - You want +30% Status Effect
     - Psion is best because you can get bloodletter rolls (+5)
