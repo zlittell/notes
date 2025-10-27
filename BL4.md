@@ -17,130 +17,141 @@
 
 ### VEX
 
-#### Legit Minion Build
+#### Bleed Witch PostNerf
 
-Avoids broken interactions that might get nerfed. Video available [here](https://www.youtube.com/watch?v=bsMG3SdODqA). 
+After the nerf the wreckage has settled. [Moxsy video](https://www.youtube.com/watch?v=dMN0Ihisi9c)
 
+##### Quick Loot List
+- World Drops:
+  - Jakobs shotgun with good spread launcher roll (Looming Dullahan)
+  - Order Sniper Rifle (with jakobs crit projectiles) (Catchy Extolled Piktun) 
+  - Order Enhancement with Power Shot (gun damage, gun crit, sniper damage)
+  - PSION (Rending) (+5 Bloodletter) (Kinetic, All damage, Gun Damage, SED) (+30% SED Best)
+- Directive-O (Ironwall Resolve Bunker Boss)
+  - Bonnie and Clyde
+- Craven Nook Order Bunker Boss: Callous Harbinger of Annihilating Death
+  - Hot Slugger
+- Driller Hole (Queens Cradle Boss)
+  - G.M.R. (Memetic Extolled)
+- Vile Ted and The Experiments in Hydrus Sublab (Terminus District)
+  - Seventh Sense
+- Primordial Guardian Inceptus
+  - Hat Trick (Vindictive)
+- Callis, the Ripper Queen
+  - Hat Trick (Vindictive)
+- Vile Lictor
+  - Hat Trick (Vindictive)
+- Idolator Sol
+  - Hat Trick (Vindictive)
+- Timekeeper
+  - Timekeepers New Shield
+- Primordial Guardian Origo
+  - Watts 4 Dinner
+  - Hat Trick (Vindictive)
+- Backhive (Auger Mine "The Claim" Boss)
+  - Triple Bypass with AMP (Heart Pump good as a bonus with amp)
 ##### Items
 
-- Quick List
-  - Perks to Look out for
-    - Deadeye (Class Mod, Shield, Enhancement)
-    - High Caliber (repkit, grenade)
-  - Items and Bosses
-    - World Drops (Splashzone Farming, etc)
-      - [ ] People's Flewdy (SMG) - World Drop
-        - I have fire version, want shock or cryo/cor plus I want tazer and double barrel
-      - [ ] Crushing Hero of Bullet (Enhancement) - World Drop
-    - Boss Drops
-      - [x] Wombo Combo (AR) - Saw's Clench Drill Site
-        - Have really high dps but does require spinup.
-      - [ ] Lucian's Flank (AR) - Saddleback
-        - Cryo/corrosive
-      - [ ] Rainbow Vomit (Shotgun) - Leader Willem
-      - [ ] High Capacity Relaxed Super Solder (Shield) - Vile Lictor
-      - [ ] Detonating Illusionist (Class Mod) - Ripper Queen
-      - [ ] Triple Bypass (Repkit) - BackHive
-
 - Weapons
-  - Wombo Combo (AR)
-    - Rolls Type, Fire is best.
-    - Farming:
-      - [Rippa Roadbirds](https://mobalytics.gg/borderlands-4/wiki/weapons/wombo-combo)
-        - Boss in Ruined Sumplands
-        - Ripper Drill Site 'Saw's Clench', fight all the mobs then the boss spawns
-        - Use Moxxis Encore Machine to restart the fight
-        - Extra note: Jumping out of the arena can be difficult. Locate the small rock pile on the right hand side of the exit to jump and grab onto the ledge above.
-        - ![Saw's Clench Drill Site](/assets/bl4/map-drillsite-sawsclench.jpg)
-  - Lucian's Flank (AR)
-    - Rolls Type, Roll Something for Shields or Armors
-    - Drops with second barrel attachment, which is good.
-    - Farming:
-      - [Saddleback](https://mobalytics.gg/borderlands-4/guides/lucians-flank-assault-rifle)
-        - Unlock Old Scrape Drill Site where Saddleback is the boss, Encore Machine resets fight
-        - Terminus Range south where it borders Fadefields
-        - ![Old Scrape Drill Site](/assets/bl4/map-drillsite-oldscrape.png)
-  - People's Flewdy (SMG)
-    - Tazer underbarrel is best roll for destroying shields (Roll Lucians Flank for Armor then)
-    - Can also roll double barrel.
-    - Would be good to match Shock for insane shield destroying, Or Cryo/corrosive for Armor/Shield in one gun.
-    - Farming:
-      - World Drop
-      - Splashzone
-        - ![Splashzone](/assets/bl4/map-boss-splashzone.png)
-  - Flex Spot
-    - Can play around with this
-    - Rainbow Vomit Shotgun
-      - Gets another ammo type in the mix
-      - Good ad clearing
-      - Rolls with 3 affinities
-        - At least one incendiary
-        - Health, Armor, and Shield in one is god roll (Inc, Shock/Rad, Corrosive/Cryo)
+  - Mobbing Setup:
+    - [ ] Bonnie and Clyde
+      - (LEGENDARY)
+      - His Base Card is (2384, 78, 3.4s, 6.9/s, 18)=7125 DPS
+      - Pair of Thieves and Jakobs Crit Hit Projectile
+      - Shotgun swap is good
       - Farming:
-        - Must Complete Enter the Electi Side Quest Chain in Carcadia Burns
-        - Drops from Leader Willem
-        - Once quest done once, revisit arena and use encore machine to respawn him
-        - ![Leader Willem](/assets/bl4/map-boss-leader-willem.png)
+        - Ironwall Resolve Bunker boss: Directive-O
+    - [ ] Hot Slugger 
+      - (LEGENDARY)
+      - His Base Card is (9392, 82%, 0.9s, 1.0/s, 1)=5077
+      - Blazing Barrel with Jakobs Crit
+      - Farming:
+        - Craven Nook Order Bunker Boss: Callous Harbinger of Annihilating Death
+    - [ ] G.M.R. (Memetic Extolled) 
+      - (LEGENDARY)
+      - His Base Card (2580, 68, 1.7, 4.3, 21)=8256
+      - Big Name Hunter with Jakobs Crit
+      - Farming:
+        - Queens Cradle boss Driller Hole
+    - [ ] Seventh Sense (Kettled Ambushing Seventh Sense)
+      - (LEGENDARY)
+      - His Base Card (1785, 74, 1.9, 9.0, 4)=3065
+      - Proprioception, Hyperion Shield, Daedalus Multi-Loader, Jakobs Crit
+      - Farming:
+        - Vile Ted and The Experiments in Hydrus Sublab (Terminus District)
+        - First do side mission "Below the Surface" to unlock
+  - Boss Setup:
+    - Replace Seventh Son and GMR with these two (Keeping Hot Slugger and Bonnie and Clyde)
+    - [ ] Jakobs shotgun with good spread launcher roll
+      - [ ] Dullahan (Looming) (his pick)
+        - Purple
+        - His Base Card (1548x6, 76, 1.4, 1.5, 1)
+        - Spread Launcher (31480x5) is the magic
+        - Jakobs Crit
+    - [ ] Order Sniper Rifle (with jakobs crit projectiles)
+      - Charges all count as single damage source for bleed
+      - [ ] Piktun (Catchy Extolled) (his pick)
+        - Purple
+        - base card (5000, 93, 1.9, 1.4, 9)=5381
+        - Jakobs Crit Projects, Torque Impact Mag, Order Charge
 - Enhancement
-  - 3/4 are vladof so vladof enhancement
-  - Crushing Hero of Bullet
-    - Bullet Hose and Box Mag good rolls together
-    - +25% Gun Damage, +50% Mag Size good random stats
+  - [ ] Hat Trick (Vindictive)
+    - Legendary
+    - Extra richochets
+    - Gun damage +25, Gun Crit Damage +50
     - Farming:
-      - World Drop, good luck
-  - Purple Vladof to hold over
+      - Can drop anywhere?
+      - Farm Primordial Guardians (Inceptus is easiest to kill) due to high amount of enemies that can drop it before the boss as well
+      - Higher Chance?:
+        - Primordial Guardian Inceptus
+        - Callis, the Ripper Queen
+        - Vile Lictor
+        - Idolator Sol
+  -  Could use Order one with Power Shot. Best on purple with gun damage, gun crit, sniper damage
 - Shield
-  - High Capacity Relaxed Super Solder
-    - Power Play is the reason for this
-    - Brimming is nice
-    - Capacity is the roll to look for
-    - Turtle augment is alright too
-    - Farming: Vile Lictor
-      - Umbral Foundry is north of Terminus Range
-      - Encore machine to reset Vile Lictor
-      - ![vilelictor](/assets/bl4/map-boss-vilelictor.jpg)
+  - [ ] Timekeepers New Shield
+    - Legendary
+    - High Survivability because of Bininu
+    - Farming: Timekeeper lol
+  - [ ] Could swap to Watts 4 Dinner with Amp for Bossing
+    - [ ] Farming: Primordial Guardian Origo
 - Class Mod
-  - Detonating Illusionist
-    - Ideal Rolls:
-      - -33% Phase Clone Health Loss Over Time
-      - +30% Status Effect Damage
-    - Farming: Ripper Queen Main Story Boss
-      - Travel to the Moon-Called Throne in Carcadia Burn first
-      - Use Encore Machine to respawn Queen Callis, farm away
-      - ![queencallis](/assets/bl4/map-boss-queencallis.png)
-  - All status purple (Such as Burning Firedancer) is a good holdover
-    - +30% Status Effect Damage
-    - +25% Elemental Damage
-    - +30% Status Effect Application Chance
-- Repkit
-  - Triple Bypass
-    - Don't need amp but other builds want it so save it
-    - We want Power Cycle for this build.
+  - [ ] PSION (Rending)
+    - Purple
+    - You want +30% Status Effect
+    - Psion is best because you can get bloodletter rolls (+5)
+    - Kinetic, All damage, Gun Damage, SED all good stats
+    - Farming: Any lootable source since purple
+- [ ] Repkit
+  - Can be any good repkit with AMP since it doesn't stack and we don't need the 3 charges from triple bypass. But still a good repkit.
+  - [ ] Triple Bypass
+    - Legendary
+    - He uses Large Triple Bypass with Heart Pump and Amp (AMP is the key here)
     - Farming:
-      - Start at Zadra's Backup Plan Fast Travel Point
-      - North is the Auger Mine "The Claim"
-      - The Boss "Backhive" drops this
-      - ![Backhive](/assets/bl4/map-boss-backhive.png)
-- Grenade
-  - Can obviously use crit knife
-  - Good AOE Grenade with a useful element
+      - Auger Mine "The Claim" Boss "Backhive"
+        - Start at Zadra's Backup Plan Fast Travel Point
+        - North is the Auger Mine "The Claim"
+- [x] Grenade - Crit Knife
+  - Purple
+  - Damage Amp Payload is a great roll on the knife
 - Perks
   - 3/3 Deadeye (Class Mod, Shield, Enhancement)
-  - 2/3 High Caliber (repkit, grenade)
+  - 1/3 God Killer (repkit/grenade)
+  - 1/3 Heating Up (repkit/grenade)
 
 ##### Skills
 
-Link to [Planner](https://eridiyum.com/Planner?character=68bccc06123bca95973a2545&build=eyJza2lsbFBvaW50cyI6eyJ2ZXhfZ3JhdmVzaWdodHMiOjUsInZleF9ibG9vZGxldHRlciI6NSwidmV4X2dyYXZlaW1wbGVtZW50cyI6MiwidmV4X3Nhbmd1aW5lZmllbmRzIjo1LCJ2ZXhfY29sZGlyb24iOjUsInZleF9wb3J0ZW50c29mc3VmZmVyaW5nIjo1LCJ2ZXhfZ3JhdmVmaWVuZHMiOjAsInZleF9jdXJzZWRibGFkZSI6MCwidmV4X2V4dHJhY3Vyc2VkIjowLCJ2ZXhfcHJpc21hdGljaWNob3IiOjUsInZleF9idXJuaW5nYXR0dW5lbWVudCI6NSwidmV4X3JlY3VycmVuY2UiOjUsInZleF9idXJudG9mZmVyaW5nIjo1LCJ2ZXhfdmlvbGVudG91dGJ1cnN0IjowLCJ2ZXhfYmxpbmtzdHJpa2UiOjAsInZleF9oZXh1c25leHVzIjowLCJ2ZXhfdm9ycGFsZmFuZyI6MCwidmV4X2JlYXN0bW9kZSI6MCwidmV4X2doYXN0Ymxhc3RlciI6MCwidmV4X2NvdmVuIjowLCJ2ZXhfd2l0aGVyIjowLCJ2ZXhfaGVsbGlzaGhhcnZlc3QiOjEsInZleF9iYW5zaGVlc3dhaWwiOjAsInZleF9nZWlzdHdhdmUiOjAsInZleF9lbmVyZ3l2YW1waXJlIjowLCJ2ZXhfaXJvbm1haWRlbiI6MCwidmV4X3dpdGNoeXRyaWdnZXJmaW5nZXIiOjAsInZleF9ncmF2ZWhhcnZlc3QiOjAsInZleF90cm91YmxlYnViYmxlIjowLCJ2ZXhfZG91YmxldHJvdWJsZSI6MCwidmV4X3Vuc2VhbGVkIjowLCJ2ZXhfaGVpcmxvb20iOjAsInZleF9ncmltcmVhcGVyIjoxLCJ2ZXhfZGFya3BhY3QiOjAsInZleF9kZXNlY3JhdGlvbiI6MCwidmV4X3ZpYmVjaGVjayI6MCwidmV4X2hlYXJ0cGllcmNlciI6MCwiYnJ1dGUiOjIwLCJzaGFycHNob290ZXIiOjIwLCJraWxsZXIiOjI0LCJyaWRkbGVfeW91X3RoaXMiOjEsImNvbnRhbWluYXRpb24iOjEsImNvbXBvdW5kaW5nX2FmZmxpY3Rpb25zIjoxLCJvdmVya2lsbCI6MSwidmV4X2dyYXZlcG93ZXIiOjJ9LCJsZXZlbCI6NTAsImFjdGlvblNraWxsSWQiOiJ2ZXhfZGVhZHJpbmdlciIsIm5vdGVzIjoiIiwidGFncyI6W119)
+Link to [Planner](https://maxroll.gg/borderlands-4/planner/j7diu08y)
 
 ##### Specializations
 
-First 20 brute, then at least 10 sharpshooter to unlock killer. Get Killer to 20 to unlock all three passives, Get sharpshooter to 20 then dump rest into killer.
-
 - 20 Brute
-- 20 Sharpshooter
-- 24 Killer
+- 1 Sharpshooter
+- 10 Killer
+- 20 Daredevil
+- 10 Runner
 - Passives:
   - Riddle You This
   - Contamination
-  - Compounding Afflictions
-  - Overkill
+  - I am a Gun
+  - A Honed Mind
