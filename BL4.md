@@ -37,8 +37,6 @@ After the nerf the wreckage has settled. [Moxsy video](https://www.youtube.com/w
 - Primordial Guardian Origo
   - Watts 4 Dinner
   - Hat Trick (Vindictive)
-- Backhive (Auger Mine "The Claim" Boss)
-  - Triple Bypass with AMP (Heart Pump good as a bonus with amp)
 ##### Items
 
 - Weapons
@@ -77,9 +75,10 @@ After the nerf the wreckage has settled. [Moxsy video](https://www.youtube.com/w
         - His Base Card (1548x6, 76, 1.4, 1.5, 1)
         - Spread Launcher (31480x5) is the magic
         - Jakobs Crit
-    - [x] Order Sniper Rifle (with jakobs crit projectiles)
+    - [] Order Sniper Rifle (with jakobs crit projectiles)
       - Charges all count as single damage source for bleed
       - I have a legendary that seems much better (Order with 7000 base damage) what am I missing here?
+      - Figured it out, Mine shoots three individual shots vs 1 mega shot.
       - Piktun (Catchy Extolled) (his pick)
         - Purple
         - base card (5000, 93, 1.9, 1.4, 9)=5381
@@ -109,9 +108,9 @@ After the nerf the wreckage has settled. [Moxsy video](https://www.youtube.com/w
     - Psion is best because you can get bloodletter rolls (+5)
     - Kinetic, All damage, Gun Damage, SED all good stats
     - Farming: Any lootable source since purple
-- [ ] Repkit
+- [x] Repkit
   - Can be any good repkit with AMP since it doesn't stack and we don't need the 3 charges from triple bypass. But still a good repkit.
-  - [ ] Triple Bypass
+  - [x] Triple Bypass
     - Legendary
     - He uses Large Triple Bypass with Heart Pump and Amp (AMP is the key here)
     - Farming:
